@@ -1,4 +1,4 @@
-# 一、Spring Boot 入门
+# 一、Spring Boot 入门笔记
 
 ## 1、Spring Boot 简介
 > 简化Spring应用开发的一个框架；
